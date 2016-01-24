@@ -1,14 +1,16 @@
-# Fonts Loader - Load All Fonts Without Installation On The Fly!
+# Fonts Loader
 
-Description:
+## Load All Fonts Without Installation On The Fly!
 
-> Fonts Loader is a simple yet useful program created by me and TH3K31 from MiniTheatre.org
+### Description:
 
-> It loads all the fonts that you want in the system memory for use by applications such as media players that requires fonts to render the subtitles correctly, and other applications that requires fonts from system.
+Fonts Loader is a simple yet useful program created by me and TH3K31 from MiniTheatre.org
 
-> The great thing about it is that it automatically loads all of them from one place without you having to load or install them one by one. And since they are not installed so your system might not get slow, as they all gets unloaded as soon as you close the program.
+* It loads all the fonts that you want in the system memory for use by applications such as media players that requires fonts to render the subtitles correctly, and other applications that requires fonts from system.
 
-Note:
+* The great thing about it is that it automatically loads all of them from one place without you having to load or install them one by one. And since they are not installed so your system might not get slow, as they all gets unloaded as soon as you close the program.
+
+### Note:
 
 > Requires .NET Framework 3.5 installation on Windows Vista and below.
 
@@ -16,19 +18,19 @@ Note:
 
 Features:
 
-> Loads all popular types of fonts formats including OTF, TTF from one place (folder)
+* Loads all popular types of fonts formats including OTF, TTF from one place (folder)
 
-> Loads them to system memory in the shortest time possible, depending on system speed
+* Loads them to system memory in the shortest time possible, depending on system speed
 
-> Gives information of number of fonts loaded, also gives information when unloaded
+* Gives information of number of fonts loaded, also gives information when unloaded
 
-> Ability to minimize the program to task-bar as an icon after loading fonts
+* Ability to minimize the program to task-bar as an icon after loading fonts
 
-> Ability to unload fonts from program window or right-clicking on its icon in task-bar
+* Ability to unload fonts from program window or right-clicking on its icon in task-bar
 
-> Added Fade-In and Fade-Out effects during program launch and exit on its window :)
+* Added Fade-In and Fade-Out effects during program launch and exit on its window :)
 
-How to use:
+### How to use:
 
 > Simply add all desired fonts in a folder named "Fonts" in same place as FontLoad.exe
 
@@ -38,6 +40,6 @@ How to use:
 
 > After adding all the fonts and the program itself you can zip it up for distribution.
 
-Download:
+### Download:
 
-> Click the file name you want to download, then click on "View raw file" 
+* Click the file name you want to download, then click on "View raw file" 
