@@ -16,7 +16,7 @@ Fonts Loader is a simple yet useful program created by me and TH3K31 from MiniTh
 
 > The source code is shared with the consent of improving by others, however it has been licensed under GPL GNU v3, which allows you to fully modify but have to give full credits to the original creator which is me and TH3K31 :)
 
-Features:
+### Features:
 
 * Loads all popular types of fonts formats including OTF, TTF from one place (folder)
 
